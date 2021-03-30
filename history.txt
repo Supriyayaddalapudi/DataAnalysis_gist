@@ -1,0 +1,105 @@
+    1  pwd
+    2  ls
+    3  touch priya
+    4  touch priya.txt
+    5  cd d:
+    6  cd e:
+    7  cd c:
+    8  mkdir lpfolder
+    9  cd c/Users/dell/Desktop/gist-Lakshmipriya
+   10  rm priya.txt
+   11  touch myfile{1.....10}.txt
+   12  touch myfile{1..10}.txt
+   13  ls
+   14  touch hello.txt
+   15  echo "hello"
+   16  cat hello.txt
+   17  echo {1..100}
+   18  echo {1..100}>>hello.txt
+   19  cat hello.txt
+   20  touch myfiles{1..100}.txt
+   21  rm *.txt
+   22  touch file1.txt
+   23  touch file2.txt
+   24  ls
+   25  cat file1.txt>>file2.txt
+   26  cat file2.txt>>file1.txt
+   27  cat file1.txt
+   28  mkdir lp
+   29  touch priya.txt
+   30  touch profile.txt
+   31  mkdir lakshmi
+   32  cd lakshmi
+   33  git clone 'https://github.com/priyalp-21/gist_508.git'
+   34  git init
+   35  git status -s
+   36  git clone 'https://github.com/vijaykumar10022/T-ShirtSize.git'
+   37  pwd
+   38  ls
+   39  touch demo.txt
+   40  ls
+   41  mkdir GIST
+   42  LS
+   43  cd GIST
+   44  pwd
+   45  cde:
+   46  pwd
+   47  cdd:
+   48  pwd
+   49  cd c:
+   50  cd /c/Users/dell/Desktop/supriya.4c7
+   51  pwd
+   52  echo "hello"
+   53  echo {1..100}
+   54  echo {1..1000}
+   55  touch file(1..100}.txt
+   56  touch file{1..100}.txt
+   57  touch python{20..50}.py
+   58  touch clanguage{50..70}
+   59  touch clanguage{50..70}.cpp
+   60  ~pwd
+   61  ls
+   62  rmdir GIST
+   63  ls
+   64  rm dem0.txt
+   65  rm demo.txt
+   66  ls
+   67  rm file{1..10}.txt
+   68  ls
+   69  rm file{50..100}.txt
+   70  ls
+   71  rm clanguage{50..70}.txt
+   72  ls
+   73  rm*.txt
+   74  ls
+   75  rm *.txt
+   76  ls
+   77  rm *.py
+   78  ls
+   79  rm *.cpp
+   80  ls
+   81  rm *.clanguage
+   82  ls
+   83  nano myfile.txt
+   84  cat myfile.txt
+   85  nano myfile.txt
+   86  cat myfile.txt
+   87  nano myfile.txt
+   88  echo "Hello">>myfile2.txt
+   89  cat myfile.txt
+   90  cat myfile2.txt
+   91  echo {1..1000}..myfile3.txt
+   92  echo{1..1000}>>myfile3.txt
+   93  echo {1`..1000}>>myfile3.txt
+   94  echo {1..1000} >>myfile2.txt
+   95  cat myfile2.txt
+   96  mv myfile2.txt myfile.txt
+   97  cat myfile2.txt
+   98  ls
+   99  cat myfile.txt
+  100  ls
+  101  cat myfile2.txt
+  102  cp myfile2.txtmyfile.txt
+  103  cp myfile2.txt myfile.txt
+  104  history
+  105  history >>history.txt
